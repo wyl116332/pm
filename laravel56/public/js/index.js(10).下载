@@ -1,0 +1,1 @@
+KISSY.add("sf-foot-2014",["node"],function(n,t){function o(){this.init.apply(this,arguments)}var i=t("node");return o.prototype={init:function(n){var t=this;t._node=i.one(n)}},o});

@@ -1,0 +1,1 @@
+KISSY.add("sf-news-2014",["node"],function(n,t){function i(){this.init.apply(this,arguments)}var o=t("node");return i.prototype={init:function(n){var t=this;t._node=o.one(n)}},i});

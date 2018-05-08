@@ -1,0 +1,1 @@
+KISSY.add("sf-qipa-2014",["node","kg/datalazyload/6.0.5/"],function(n,a){function t(){this.init.apply(this,arguments)}var o=a("node"),i=a("kg/datalazyload/6.0.5/");return t.prototype={init:function(n){var a=this;a._node=o.one(n),i(a._node)}},t});
